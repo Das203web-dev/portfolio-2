@@ -1,0 +1,125 @@
+section {
+    margin: 0%;
+}
+
+.sec1 {
+    background-repeat: no-repeat;
+    background-image: url(s.jpg);
+    background-size: cover;
+    backface-visibility: visible;
+
+}
+
+.div1 {
+    display: flex;
+}
+
+.first-div-style {
+    width: 50%;
+
+}
+
+.p1 {
+    text-align: justify;
+    padding: 10px 10px;
+    color: white;
+
+
+}
+
+.first-div-style img {
+    width: 98%;
+    padding-top: 15px;
+    padding-left: 0px;
+
+    border-radius: 2in;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 10px 10px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+span {
+    font-size: 50px;
+    background: -webkit-linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#first-p {
+    font-size: 20px;
+    background: -webkit-linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3 {
+    font-size: 20px;
+    padding: 10px 10px;
+    color: whitesmoke;
+
+}
+
+.first-link {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    padding: 10px 20px;
+    width: 10px;
+    color: rgb(5, 5, 5);
+    margin-left: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+
+}
+
+.sec2-h2 {
+    font-size: 25px;
+    background: -webkit-linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.second-div-style {
+    width: 50%;
+}
+
+.second-div-style img {
+    width: 90%;
+    padding-top: 80px;
+    padding-left: 10px;
+
+    border-radius: 2in;
+}
+
+.beginner {
+    font-size: 50px;
+    padding: 60px 10px 10px 10px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.reminder {
+    font-size: 20px;
+
+    color: whitesmoke;
+}
+
+.sec2-header2 {
+    font-size: 25px;
+    padding: 5px 10px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p2 {
+    text-align: justify;
+    padding: 10px 10px;
+    color: white;
+}
