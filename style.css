@@ -1,14 +1,8 @@
 section {
-    margin: 0%;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
 }
 
-.sec1 {
-    background-repeat: no-repeat;
-    background-image: url(s.jpg);
-    background-size: cover;
-    backface-visibility: visible;
-
-}
 
 .div1 {
     display: flex;
@@ -28,11 +22,11 @@ section {
 }
 
 .first-div-style img {
-    width: 98%;
-    padding-top: 15px;
-    padding-left: 0px;
+    width: 95%;
+    padding-top: 80px;
+    padding-left: 5px;
 
-    border-radius: 2in;
+    border-radius: 5in;
 }
 
 h1 {
@@ -89,16 +83,16 @@ h3 {
 }
 
 .second-div-style img {
-    width: 90%;
+    width: 95%;
     padding-top: 80px;
-    padding-left: 10px;
+    padding-left: 5px;
 
     border-radius: 2in;
 }
 
 .beginner {
     font-size: 50px;
-    padding: 60px 10px 10px 10px;
+    padding: 20px 10px 10px 10px;
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -112,7 +106,7 @@ h3 {
 
 .sec2-header2 {
     font-size: 25px;
-    padding: 5px 10px;
+    padding: 0px 10px;
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -120,6 +114,53 @@ h3 {
 
 .p2 {
     text-align: justify;
-    padding: 10px 10px;
+    padding: 0px 10px 10px 10px;
     color: white;
+}
+
+.second-div-style2 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 20px 20px 40px green;
+    border-left: 10px solid greenyellow;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
+
+.second-div-style3 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 20px 20px 40px green;
+    border-left: 10px solid greenyellow;
+    border-image: linear-gradient(blue, #4d9f0c) 30;
+}
+
+.span2 {
+    font-size: 20px;
+    background: -webkit-linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 10px;
+}
+
+.sec3 {
+
+    backface-visibility: visible;
+    margin-bottom: 10px;
+}
+
+.header3 {
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.p3 {
+    color: whitesmoke;
+    text-align: justify;
+    padding: 10px;
 }
