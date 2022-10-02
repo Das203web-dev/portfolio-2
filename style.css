@@ -87,7 +87,7 @@ h3 {
     padding-top: 80px;
     padding-left: 5px;
 
-    border-radius: 2in;
+    border-radius: 5in;
 }
 
 .beginner {
@@ -124,7 +124,7 @@ h3 {
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
-    box-shadow: 20px 20px 40px green;
+    box-shadow: 20px 20px 20px green;
     border-left: 10px solid greenyellow;
     border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
 }
@@ -135,9 +135,9 @@ h3 {
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
-    box-shadow: 20px 20px 40px green;
     border-left: 10px solid greenyellow;
     border-image: linear-gradient(blue, #4d9f0c) 30;
+    box-shadow: 20px 20px 20px red;
 }
 
 .span2 {
@@ -163,4 +163,94 @@ h3 {
     color: whitesmoke;
     text-align: justify;
     padding: 10px;
+}
+
+.footer-style {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-image: linear-gradient(blue, #4d9f0c) 30;
+
+}
+
+.footer-h2 {
+    font-size: 20px;
+    margin-top: 1in;
+    background: -webkit-linear-gradient(rgb(15, 220, 243), rgb(190, 240, 25));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-p {
+    color: rgba(225, 255, 0, 0.682);
+}
+
+.footer-h3 {
+    text-align: center;
+    font-size: medium;
+    font-weight: 700;
+    padding: 10px;
+    background-image: linear-gradient(red, green, cyan);
+    color: black;
+
+}
+
+.footer-style2 {
+    width: 40%;
+    margin-top: 1in;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1in;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-image: linear-gradient(blue, #4d9f0c) 30;
+    height: 20px;
+    width: 100%;
+}
+
+.footer-link1 {
+    font-size: x-large;
+    padding-left: 6in;
+    font-weight: bold;
+    background: -webkit-linear-gradient(blue, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-link2 {
+    font-size: x-large;
+    padding-left: 6in;
+    font-weight: bold;
+    background: -webkit-linear-gradient(blue, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-link3 {
+    font-size: x-large;
+    padding-left: 6in;
+    font-weight: bold;
+    background: -webkit-linear-gradient(red, green, blue, yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-link4 {
+    font-size: x-large;
+    padding-left: 6in;
+    font-weight: bold;
+    background: -webkit-linear-gradient(white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-link5 {
+    font-size: x-large;
+    padding-left: 6in;
+    font-weight: bold;
+    background: -webkit-linear-gradient(red, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
